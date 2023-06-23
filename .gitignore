@@ -7,6 +7,7 @@
 
 # Local History for Visual Studio Code
 .history/
-.ayuayu111_secret.text
+./ayuayu111_secret.txt
 # Built Visual Studio Code Extensions
 *.vsix
+
